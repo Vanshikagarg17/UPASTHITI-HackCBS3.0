@@ -9,4 +9,3 @@ UPASTHITI means being present/available. Due to the pandemic, most of the things
  | :---: | :---: | :---: | :---: | :---: | :---: | 
  
  
-## How it works?
